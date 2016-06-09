@@ -226,7 +226,11 @@ function create_config( )
     "leave_ban",
     "admin",
     "remsg",
-    "time"
+    "time",
+    "getplug",
+    "info",
+    "welcom",
+    "write"
     },
     sudo_users = {116251654,116773423},--Sudo users
     disabled_channels = {},
@@ -240,7 +244,6 @@ function create_config( )
 ــــــــــــــــــــــــــــــــــــــــــــــ
 🤖📩ROBOTPAYAMRESAN:@window_report_BOT
 ــــــــــــــــــــــــــــــــــــــــــــــ
-🎫☯LINK SUPPORT: ---
 ]],
     help_text_realm = [[
 Realm Commands:
